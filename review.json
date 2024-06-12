@@ -1,0 +1,82 @@
+{
+    "6668cb32e6005": {
+        "bookID": "6668c70f801ae",
+        "reviews": [
+            [
+                "666863da1a30d",
+                "5",
+                "Great story! "
+            ],
+            [
+                "6668cbeb3fef7",
+                "2",
+                "Boring!"
+            ]
+        ],
+        "id": "6668cb32e6005"
+    },
+    "6668cb484e69b": {
+        "bookID": "6668c9ec23a79",
+        "reviews": [
+            [
+                "666863da1a30d",
+                "4",
+                "Interesting plot!"
+            ],
+            [
+                "66686f93b00df",
+                "5",
+                "On a second though, i think this deserves the best rating! Great read!"
+            ],
+            [
+                "6668cbeb3fef7",
+                "5",
+                "My friend recommended this to me, great read!"
+            ]
+        ],
+        "id": "6668cb484e69b"
+    },
+    "6668cb704983b": {
+        "bookID": "6668ca314af08",
+        "reviews": [
+            [
+                "666863da1a30d",
+                "4",
+                "One of the best read ever!"
+            ],
+            [
+                "6668cd5cb16e9",
+                "4",
+                "I love this!"
+            ]
+        ],
+        "id": "6668cb704983b"
+    },
+    "6668cba82f125": {
+        "bookID": "6668caa88f354",
+        "reviews": [
+            [
+                "66686f93b00df",
+                "5",
+                "I love the characters!"
+            ],
+            [
+                "6668cd5cb16e9",
+                "3",
+                "Interesting read, but the story could have been more interesting!"
+            ]
+        ],
+        "id": "6668cba82f125"
+    },
+    "6668ccbef26a5": {
+        "bookID": "6668c7e3c9f39",
+        "reviews": [
+            [
+                "66686f93b00df",
+                "1",
+                "The story is not getting any better:("
+            ]
+        ],
+        "id": "6668ccbef26a5"
+    }
+}

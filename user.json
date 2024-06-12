@@ -1,0 +1,38 @@
+{
+    "666863da1a30d": {
+        "username": "alfaarizi",
+        "email": "ziziyusrizal@gmail.com",
+        "password": "$2y$10$y9QPgr8MJtIvREiLByBojOvx0fzhmk19HgwqSRGiKgjHq97884Xs2",
+        "lastlogin": "2024-06-12 11:12:03",
+        "admin": "yes",
+        "profile": "profile02.png",
+        "id": "666863da1a30d"
+    },
+    "66686f93b00df": {
+        "username": "admin",
+        "email": "admin@gmail.com",
+        "password": "$2y$10$pR7252L.arI7qvNEk3aKsO31jXz4DTJDtCmt4B9MN\/yWXseZ072qO",
+        "lastlogin": "2024-06-12 03:17:25",
+        "admin": "yes",
+        "profile": "profile01.png",
+        "id": "66686f93b00df"
+    },
+    "6668cbeb3fef7": {
+        "username": "notadmin",
+        "email": "notadmin@gmail.com",
+        "password": "$2y$10$wQzubzXbRWN6mZsrgfeaLu8PI4RpdtY\/MhMJmTzORk0\/8u3ALUoRS",
+        "lastlogin": "2024-06-12 03:18:56",
+        "admin": "no",
+        "profile": "profile04.png",
+        "id": "6668cbeb3fef7"
+    },
+    "6668cd5cb16e9": {
+        "username": "farah",
+        "email": "farah@gmail.com",
+        "password": "$2y$10$UmD0V0vXpV4xhhekJrE8Lujp7XX4kQsv6FRh.x5YW.5CXi.K3KnV.",
+        "lastlogin": "2024-06-12 03:20:18",
+        "admin": "no",
+        "profile": "profile03.png",
+        "id": "6668cd5cb16e9"
+    }
+}

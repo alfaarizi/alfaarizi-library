@@ -1,0 +1,138 @@
+{
+    "6668c70f801ae": {
+        "title": "Sacrifice Moon",
+        "author": "Julie Fortune",
+        "description": "Notes about Argos, the planet originally under the control of the Goa'uld Pelops. A definitive Greek ancestry decorates the structures, as well as the clothing of the Argosians, the planets occupants who prefered to call themselves the Chosen. For some time Pelops operated on the planet, experimenting on the human population, much like Nirrti has done, attempting to expand their lifespan.",
+        "year": "2005",
+        "image": "book_cover_1.png",
+        "planet": "P3X-8596",
+        "genre": [
+            "Adventure",
+            "Fantasy",
+            "Historical"
+        ],
+        "readBy": [
+            [
+                "666863da1a30d",
+                "2024-06-12 03:16:21"
+            ],
+            [
+                "6668cbeb3fef7",
+                "2024-06-12 03:20:03"
+            ]
+        ],
+        "id": "6668c70f801ae"
+    },
+    "6668c7e3c9f39": {
+        "title": "City of the Gods",
+        "author": "Sonny Whitelaw",
+        "description": "P3X-797 is a world divided into a dark and light side. The Stargate resides on the dark side of the planet where the \\\"Touched\\\" exist. The light side is inhabited by the \\\"Untouched\\\". A histaminalytic virus inhabits the world, forcing anyone with histamine in their bodies to succumb to primeval tendencies. The leader of the light side is Tuplo.",
+        "year": "2007",
+        "image": "book_cover_2.png",
+        "planet": "P3X-797",
+        "genre": [
+            "Thriller",
+            "Mystery",
+            "Science Fiction"
+        ],
+        "readBy": [
+            [
+                "66686f93b00df",
+                "2024-06-12 03:18:29"
+            ]
+        ],
+        "id": "6668c7e3c9f39"
+    },
+    "6668c84819fef": {
+        "title": "Barque of Heaven",
+        "author": "Suzanne Wood",
+        "description": "P3X-797 is a world divided into a dark and light side. The Stargate resides on the dark side of the planet where the \\\"Touched\\\" exist. The light side is inhabited by the \\\"Untouched\\\". A histaminalytic virus inhabits the world, forcing anyone with histamine in their bodies to succumb to primeval tendencies. The leader of the light side is Tuplo.",
+        "year": "2007",
+        "image": "book_cover_3.png",
+        "planet": "P3X-797",
+        "genre": [
+            "Adventure",
+            "Fantasy",
+            "Humorous"
+        ],
+        "readBy": [],
+        "id": "6668c84819fef"
+    },
+    "6668c9ec23a79": {
+        "title": "Valhalla",
+        "author": "Tim Waggoner",
+        "description": "P3X-797 is a world divided into a dark and light side. The Stargate resides on the dark side of the planet where the \\\"Touched\\\" exist. The light side is inhabited by the \\\"Untouched\\\". A histaminalytic virus inhabits the world, forcing anyone with histamine in their bodies to succumb to primeval tendencies. The leader of the light side is Tuplo.",
+        "year": "2007",
+        "image": "book_cover_4.png",
+        "planet": "P3X-797",
+        "genre": [
+            "Thriller",
+            "Fantasy",
+            "Historical",
+            "Horror"
+        ],
+        "readBy": [
+            [
+                "666863da1a30d",
+                "2024-06-12 04:15:39"
+            ],
+            [
+                "66686f93b00df",
+                "2024-06-12 03:17:39"
+            ],
+            [
+                "6668cbeb3fef7",
+                "2024-06-12 03:19:49"
+            ]
+        ],
+        "id": "6668c9ec23a79"
+    },
+    "6668ca314af08": {
+        "title": "Heart's Desire",
+        "author": "Amy Griswold",
+        "description": "P3X-742 is a world divided into a dark and light side. The Stargate resides on the dark side of the planet where the \\\"Touched\\\" exist. The light side is inhabited by the \\\"Untouched\\\". A histaminalytic virus inhabits the world, forcing anyone with histamine in their bodies to succumb to primeval tendencies. The leader of the light side is Tuplo.",
+        "year": "2012",
+        "image": "book_cover_5.png",
+        "planet": "P3X-742",
+        "genre": [
+            "Romance",
+            "Fantasy",
+            "Young Adult"
+        ],
+        "readBy": [
+            [
+                "666863da1a30d",
+                "2024-06-12 03:42:18"
+            ],
+            [
+                "6668cd5cb16e9",
+                "2024-06-12 03:20:26"
+            ]
+        ],
+        "id": "6668ca314af08"
+    },
+    "6668caa88f354": {
+        "title": "Female of the Species",
+        "author": "Geonn Cannon",
+        "description": "P3X-119 is a world divided into a dark and light side. The Stargate resides on the dark side of the planet where the \\\\\\\"Touched\\\\\\\" exist. The light side is inhabited by the \\\\\\\"Untouched\\\\\\\". A histaminalytic virus inhabits the world, forcing anyone with histamine in their bodies to succumb to primeval tendencies. The leader of the light side is Tuplo.",
+        "year": "2005",
+        "image": "book_cover_6.png",
+        "planet": "P3X-119",
+        "genre": [
+            "Adventure",
+            "Humorous",
+            "Western"
+        ],
+        "readBy": [
+            [
+                "66686f93b00df",
+                "2024-06-12 03:18:08"
+            ],
+            [
+                "6668cd5cb16e9",
+                "2024-06-12 03:20:31"
+            ]
+        ],
+        "id": "6668caa88f354"
+    }
+}
